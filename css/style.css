@@ -92,7 +92,6 @@ header h1 {
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%;
     box-shadow: inset -2px 0 3px rgba(203, 196, 130, 0.06);
     z-index: 1;
   }
