@@ -129,7 +129,7 @@ header h1 {
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
   color: grey;
-  padding-top: 34px;
+  padding-top: 40%;
 }
 .no-touch .cd-tabs-navigation a:hover {
   color: #fff;
@@ -193,7 +193,6 @@ header h1 {
   .cd-tabs-navigation a {
     height: 80px;
     width: 80px;
-    padding-top: 46px;
   }
   .cd-tabs-navigation a.selected {
     box-shadow: inset 2px 0 0 #24617B;
@@ -215,7 +214,7 @@ header h1 {
     text-align: left;
     font-size: 14px;
     font-size: 0.875rem;
-    padding: 0 2.8em 0 4.6em;
+    padding: 0 4.6em 0 4.6em;
   }
   .cd-tabs-navigation a.selected {
     box-shadow: inset 0 2px 0 #24617B;
