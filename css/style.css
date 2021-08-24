@@ -250,8 +250,6 @@ header h1 {
 .cd-tabs-content li article p {
   font-size: 14px;
   font-size: 0.875rem;
-  line-height: 1.6;
-  margin-bottom: 2em;
 }
 @media only screen and (min-width: 768px) {
   .cd-tabs-content {
